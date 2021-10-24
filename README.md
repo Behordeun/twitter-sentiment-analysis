@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis
 
-This project seeks to scrape tweets on __2019 elections__ in location __(Abuja)__ which were posted between __1st of January 2017__ and __23rd of October 2021__ (1757 days; 251 weeks)__.
+This project seeks to scrape tweets on __2019 elections__ in location __(Abuja)__ which were posted between __1st of January 2017__ and __23rd of October 2021__ (1757 days; 251 weeks).
 
 The steps taken are:
 - importing the needed libraries.
@@ -20,5 +20,7 @@ __Email:__ prince.behordeun@gmail.com or abiodun.msulaiman@gmail.com
 __LinkedIn:__ [Muhammad Abiodun Sulaiman](https://www.linkedin.com/in/muhammad-abiodun-sulaiman)
 
 __Twitter:__ [@Prince_Analyst](https://wwww.twitter.com/Prince_Analyst)
+
+__Facebook:__ [Muhammad Abiodun Sulaiman](https://www.facebook.com/muhammad.herbehordeun)
 
 __Tel:__ +2348108316393
