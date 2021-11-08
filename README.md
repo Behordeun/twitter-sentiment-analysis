@@ -13,6 +13,8 @@ The steps taken are:
 
 The steps taken at each stage was commented above each syntax to provide a guide for users who may be interested in using the script for analytics.
 
+![Muhammad Abiodun Sulaiman](<img src="https://drive.google.com/file/d/1G0KpEMx6z6dif_y-qaWlmgTwQrMywMkV/view?usp=sharing" width=400 height=400 />)
+
 __Author:__ Muhammad Abiodun Sulaiman
 
 __Email:__ prince.behordeun@gmail.com or abiodun.msulaiman@gmail.com
