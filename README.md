@@ -13,8 +13,6 @@ The steps taken are:
 
 The steps taken at each stage was commented above each syntax to provide a guide for users who may be interested in using the script for analytics.
 
-![Muhammad Abiodun Sulaiman](<img src="https://drive.google.com/file/d/1G0KpEMx6z6dif_y-qaWlmgTwQrMywMkV/view?usp=sharing" width=400 height=400 />)
-
 __Author:__ Muhammad Abiodun Sulaiman
 
 __Email:__ prince.behordeun@gmail.com or abiodun.msulaiman@gmail.com
@@ -26,3 +24,5 @@ __Twitter:__ [@Prince_Analyst](https://wwww.twitter.com/Prince_Analyst)
 __Facebook:__ [Muhammad Abiodun Sulaiman](https://www.facebook.com/muhammad.herbehordeun)
 
 __Tel:__ +2348108316393
+
+![My Pix.png](https://user-images.githubusercontent.com/45925374/140731559-e56f334c-8e89-48b8-92f7-fbe66a7447d9.png)
