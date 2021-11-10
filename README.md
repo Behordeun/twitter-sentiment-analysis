@@ -37,7 +37,7 @@ __Email:__ prince.behordeun@gmail.com or abiodun.msulaiman@gmail.com
 
 __LinkedIn:__ [Muhammad Abiodun Sulaiman](https://www.linkedin.com/in/muhammad-abiodun-sulaiman)
 
-__Twitter:__ [@Prince_Analyst](https://wwww.twitter.com/Prince_Analyst)
+__Twitter:__ [@Prince_Analyst](https://www.twitter.com/Prince_Analyst)
 
 __Facebook:__ [Muhammad Abiodun Sulaiman](https://www.facebook.com/muhammad.herbehordeun)
 
